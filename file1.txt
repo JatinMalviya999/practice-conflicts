@@ -1,4 +1,6 @@
 line1
-master
+
+BUG1
+
 line3
 line4
